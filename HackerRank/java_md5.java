@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
-import javax.xml.bind.DatatypeConverter;
+import javax.xml.bind.DatatypeConverter; //doesn't work for java versions 9 and above
 
 public class java_md5 {
 
